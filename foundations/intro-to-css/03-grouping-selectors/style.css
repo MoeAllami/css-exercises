@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+.one{
+    background-color: black;
+    color: white;
+    border-top: 2px gray solid;
+    border-left: 2px gray solid;
+}
+.two{
+    background-color: yellow;
+    color: black;
+    border: 2px solid black;
+    font-weight: bold;
+}
+button{
+    font-size: 28px;
+    
+    font-family: 'Courier New', Courier, monospace;
+}
